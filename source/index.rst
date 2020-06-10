@@ -12,6 +12,7 @@ Welcome to 南柯一梦浮生尽's documentation!
    :caption: 游戏:
 
    note/mjxw.rst
+   euclidea/euclidea.rst
 
 .. toctree::
    :maxdepth: 2
