@@ -34,7 +34,7 @@ Read the Docs快速入门
 .. code-block:: vim
 
     vim .gitignore
-    /_build
+    /build
 
 使用sphinx_rtd_theme界面优化。
 
@@ -105,8 +105,8 @@ md文件支持
 .. code-block:: vim
 
     pip install sphinx-autobuild
-    sphinx-autobuild ./source ./_build/html
-    # sphinx-autobuild ./source ./_build/html -H 127.0.0.1 -p 8080
+    sphinx-autobuild ./source ./build/html
+    # sphinx-autobuild ./source ./build/html -H 127.0.0.1 -p 8080
     # 自定义ip和端口
 
 ---------
