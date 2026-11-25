@@ -1,0 +1,1715 @@
+"I'll tip my hat to the new constitution...
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+                                   MEGA MAN 1
+                              An FAQ/Walkthrough
+                             For the Nintendo NES
+                       Copyright 2005-2006 Richard Beast
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+...take a bow for the next revolution." - The Who
+
+===============================================================================
+Table of Contents:
+===============================================================================
+
+-!NOTE!-
+This guide, as you will soon see, is a fair size. Seeing as how this takes
+effect, you will most likely be lost in trying to find out what you want to
+read. There is one way to get to it, instantly. Press Ctrl + F, and then look
+for whatever you want. Let's say you want to go to the Basics section. Type in
+"4. Basics", and then you'll go to the basics section, instantly! Pretty neat,
+eh?
+
+1. Introduction
+2. Legal Disclaimer
+3. Contact Rules
+4. Basics
+5. Weapons
+6. Walkthrough
+   6a. Bomb Man
+   6b. Guts Man
+   6c. Cut Man
+   6d. Elec Man
+   6e. Ice Man
+   6f. Fire Man
+   6g. The Yellow Devil
+   6h. The Clone Battle
+   6i. The Bubble Bot
+   6j. The Final Battle
+7. Damage Chart
+8. Bosses
+9. Credits
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                           =-= 1. INTRODUCTION =-=
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+Yes, I know that I do far too many guides for my own good, you don't have to
+tell me yet again. So anyways, this guide here was originally part of a Mega
+Man Anniversary Collection guide that I was doing, but I decided to split it up,
+cuz, well, if I didn't it would take forever to finish. So yeah, I'm back once
+more to grace you with my most excellent appearance. It's Richard Beast, and
+odds are you might have read my Mega Man 3 or Mega Man 5 guides, the former
+having co-authored with Psycho Penguin. So I need no introduction.
+
+The guide itself is moderately straightforward. You have the first three
+sections which are about me, and then the next five sections which are all
+about you... uh huh. You've got game basics and a listing of all the weapons,
+then a walkthrough which goes from the six robot masters to Dr. Wily's castle,
+then after that, a chart which will tell about how many hits of each weapon
+it takes to kill enemies (yes, I do rock), a shortcut to bosses, and then just
+some shout outs I have to give. So with that, excuse my babbling, and enjoy the
+guide.
+
+ - Richard "Gbness" Beast
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                         =-= 2. LEGAL DISCLAIMER =-=
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+You are NOT permitted to put this FAQ on your site without my permission first.
+All you have to do is email me or IM me saying you want this FAQ on your site,
+then you can tell me your site and the chance is high that I'll let you. But if
+you put this FAQ on your site without my permission I swear you will regret it.
+If I let you, not ONE word should be changed from this FAQ! NOT ONE! Got it?
+Good. Also, make sure that no money is involved. If you want this FAQ to be sold
+on eBay, then just forget about it, man. And don't sell this guide either, or
+pay people to use it, or you'll be in such big trouble you don't want to think.
+
+Another little note is that I will not have this guide hosted on many other web
+sites besides GameNotOver, GameFAQs, IGN, and Neoseeker. You need full-on
+permission if it's not one of the four above sites. I am sick of people ripping
+me off (I have been ripped off three times in the past), so if I don't like
+your site, I won't let my guide be posted on it. I am sorry, but this is how it
+has to be. If you ask politely and I like your site, you will definitely have
+the luck of getting it up there. Thank you very much.
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                           =-= 3. CONTACT RULES =-=
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+You can e-mail me if there is a question you wish to ask that hasn't been
+answered in the guide, but I REALLY don't want to bother answering questions
+that have already been done, answered, and done again in the guide, if it isn't
+too much trouble. Feel free to tell me if there's something I've forgotten,
+however.
+
+My e-mail address is richard_power1000 [at] yahoo [dot] com. Except, replace
+the [at] and spaces with a "@" symbol and the [dot] and spaces with a period; I
+have to write like that so I don't get a dozen spam bots e-mailing me and
+getting me viruses. Just be polite in the e-mail, don't talk like "omg wtf rich
+ur gides r t3h su><0rz & how du i beat peace of toste", and don't ask something
+that's already been answered in the guide, and I'll respond.
+
+And don't bother sending things like:
+
+"You friggin' idiot. Your guides suck, you suck, and everything about you
+sucks. DIE DIE DIE!"
+
+"BURN IN THE FLAMES OF HELL, YOU STUPID RETARD!!!"
+
+"What the hell did you think you were doing writing all that garbage, you piece
+of crap?
+
+"I hope you fall down the stairs and break every bone in your body!"
+
+"u su><0rz, eVrYtInG BoUt u sUx, dIe ass!!!!!!1"
+
+I will laugh at such e-mails and delete them. So... if you're not just playing
+a friendly joke on me or something, don't bother with that crap cos I've been
+through with it too much.
+
+Okay, that's enough for that. My AIM name is rbeast288; sorry, I don't have MSN
+or YIM. The list is closed, but I'll add you if you ask politely via e-mail. I
+like chatting with people, but try not to overdo it on AIM if I add you to my
+list. Since I am busy a majority of the time and all.
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                              =-= 4. BASICS =-=
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+You can figure these out in ten seconds by looking at your NES controller,
+but
+because I am writing a guide:
+
+Up: Climb up (ladder)
+Down: Climb down
+(ladder)
+Left: Move left
+Right: Move right
+A: Fire
+B: Jump
+
+As for the game itself, you are a fighting robot named Mega Man, out to defeat
+Dr. Light's six creations which have been taken over by Dr. Wily: those are
+Bomb Man, Guts Man, Cut Man, Elec Man, Ice Man, and Fire Man. Everytime you beat
+one of these six, you'll obtain one of their weapons, and another robot will
+definitely be weak against that weapon. Since you're not in Mega Man 4 yet,
+that's probably it. You're armed with an arm cannon for now, so get out and
+beat some mechanical ass.
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                             =-= 5. WEAPONS =-=
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+  =================
+  MEGA MAN'S WEAPON
+=====================
+     MEGA BUSTER
+=====================
+
+You may or may not believe it, but Mega Man's weapon is probably the best in the
+game. No weapon, not even the Ice Slasher or Rolling Cutter, can rival the speed
+of the Mega Buster. No weapon, not even the Fire Storm, Super Arm, or Thunder
+Beam, can add up damage like the Mega Buster can. While not being as strong as
+the Hyper Bomb, at least you can always fire it and have lots of accuracy. =)
+This is what I used for almost every stage in the game, with the exception of
+the bosses, obviously.
+
+  =================
+  BOMB MAN'S WEAPON
+=====================
+     HYPER BOMB
+=====================
+
+Bomb Man's weapon is, in all honesty, one of my least favorite weapons. While
+the weapon packs a REALLY good punch and is great against Guts Man and has its
+uses in Ice Man's stage, the problem is that it's thrown onto the ground in
+front of you. In three seconds, the bomb will blow (seriously). If you're using
+this on something that moves, it is nigh on worthless. I didn't personally spend
+much time with it.
+
+  =================
+  GUTS MAN'S WEAPON
+=====================
+      SUPER ARM
+=====================
+
+The Super Arm is more of a "support" weapon that an attacking one. While the
+Super Arm is used for lifting large blocks, it's not often used for throwing
+them at enemies; rather, it's used to clear the path. It can still get a good
+deal of uses for attacking purposes, though, especially in Cut Man's stage. The
+only fault is that the Super Arm in itself can't damage an enemy. There need to
+be blocks around to lift, unfortunately. =\
+
+  =================
+   CUT MAN'S WEAPON
+=====================
+    ROLLING CUTTER
+=====================
+
+Cut Man's weapon is arguably one of the best in the game. On the second battle
+with Dr. Wily, he'll stand no chance against the Rolling Cutter. What it will do
+is throw a pair of scissors forward, which will cut anything in its path, and
+then it'll come back to you like a boomerang, although it has a limited amount
+of uses. It's best against Elec Man, who is definitely one of the tougher
+enemies in Mega Man.
+
+  =================
+  ELEC MAN'S WEAPON
+=====================
+    THUNDER BEAM
+=====================
+
+HOLY **** MAN THIS WEAPON IS STRONG! Yes, although it was better when Elec Man
+used it, the Thunder Beam will kill a majority of things that get in the path,
+particularly the Yellow Devil (or Rock Monster) and Ice Man. The only problem is
+that the blast is fairly slow, but it'll go in various different directions. If
+you're up against tough enemies or a lot of them, Elec Man's weapon is the one
+to choose.
+
+  =================
+   ICE MAN'S WEAPON
+=====================
+     ICE SLASHER
+=====================
+
+This is the only weapon in the entire game that Mega Man can use better than its
+respective master. The Ice Slasher will freeze anything in the way, including
+all those annoying flames in Fire Man's stage, and Fire Man himself! Fire Man's
+very weak to this weapon. Definitely one of the better weapons, as it's quite
+agile and will go in whatever way you wish. It can also freeze Guardians, a very
+nice addition in Dr. Wily's first stage.
+
+  =================
+  FIRE MAN'S WEAPON
+=====================
+     FIRE STORM
+=====================
+
+Very cool, very helpful weapon, and it turns Bomb Man from a sleepwalk into a
+hilarious joke. Fire Storm will surround Mega Man with flames, creating an
+effective shield. If you hit Bomb Man with this, it has quite a humorous result,
+as he falls down in a few hits of these. The Fire Storm can shoot in front of
+you and a bit around of you, making it a fairly versatile weapon. Also good if
+you're close to an enemy.
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                            =-= 6. WALKTHROUGH =-=
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+Now here we are beginning our game of Mega Man! Here is a listing of what every
+robot master is weak against, showing you how to progress:
+
+Bomb Man is weak against Fire Storm (Fire Man) or Mega Buster (Mega Man).
+Guts Man is weak against Hyper Bomb (Bomb Man).
+Cut Man is weak against Super Arm (Guts Man).
+Elec Man is weak against Rolling Cutter (Cut Man).
+Ice Man is weak against Thunder Beam (Elec Man).
+Fire Man is weak against Ice Slasher (Ice Man).
+
+This is the order I recommend you progress, as Bomb Man is one of the weakest
+robot masters in the whole game, if not THE. It's also recommended you do Guts
+Man's stage before Elec Man, since if you don't you'll have to go back there
+later and beat Elec Man for the second time. Anyway, let's hop to Bomb Man's
+stage, and get going!
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+6a. BOMB MAN
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Level Difficulty: Medium
+Boss Difficulty: Easy
+
+Bomb Man's stage is an average difficulty one, although it shouldn't be too bad.
+Anyway! This is the first stage of all of even the Anniversary Collection, but
+you should still be able to get through with minimal problems. First of all, the
+path ahead of us is quite linear. All you have to do is walk forward, until some
+kind of small robot on legs starts chasing at us! Ahh! Use the Triangle button
+to rapid fire at it when it jumps, and it should be easy to continue from there.
+
+After about three or four more of those, you start finding gaps in the road.
+That's where you'll need to jump, to find some more of these annoying Hoppers
+(my official name for them). Like before, keep shooting at them to find another
+gap, this one being a bit more interesting. Shortly after it comes to view, a
+bomb will appear from inside and explode into four pieces, which is what can
+damage you. It's best to rush ahead and try and get past the first two pieces of
+debris, since space is spread out more between two and two.
+
+Once you go forward a bit, another bomb will split up. Do what you did earlier
+and jump to the next ledge on the right, continuing while dodging another bomb
+splitting into four. After it does that, jump over to another long ledge, this
+one having three turrets set upon it. These things can take quite a beating, but
+they have little going for them. Keep shooting, even before they open up, which
+is the only time they can be hit. When that happens, they'll be gone before they
+can shoot.
+
+You'll find a shiny blue object on the right! Sorry, but you cannot use it,
+since you don't have any weapons. These things restore the energy of your
+weapons, very useful! After taking three turrets out, hop to the platform on the
+left and then to the ledge on the right, then climb up the ladder. Four
+different kinds of turrets can be found on the left side. Ignore them for now
+and head up the ladder you're on.
+
+From there, shoot at the third turret (going from down to up). Jump up and begin
+to climb down the ladder, and on the way, blast away at the fourth turret.
+You'll probably be shot as you climb down the second ladder, but eh well. So
+long as our real bodies aren't injured! You'll fall off the ladder, so shoot at
+the first turret and grab the health pellet to the right. That will restore a
+bit more than 1/3 of our health. Know these when you see them.
+
+Destroy the last turret, then you can continue up the second ladder and to the
+left. Climb the next ladder, and we get an introduction to one of the most
+annoying enemies in, hell, even MMAC in general: Shielded Gunners. You can
+only attack when their shields are down, and when they are, they will attack
+you. They have a pattern and can be timed in Mega Man 2-6, but not in Mega Man 1
+and Mega Man 7. All you can do is wait for them to lower their shield. You will
+get hit, but sacrifices must be made.
+
+Alright, this part is annoying. We have to make some jumps while some turrets
+are guarding them and penguins are bombing at us! You'll have to be a little
+patient around here. Wait where you are and eliminate the penguins that come
+along, and then wait for the turret to spit some fire out. Afterwards, hop down
+to that platform and shoot the turret down to pieces. Repeat this about three
+times, and move on...
+
+Head right to find some platforms with Moving Thorns on them. Yeah, they're
+ALIVE! However, they're not nearly as damaging as real thorns. They can't be
+destroyed unless you have the Rolling Cutters or the Thunder Beam, and we have
+neither. How's about we ignore them for now? Jump over to the right and fall
+into the small ditch. Jump out of the small area with the three ledges, then
+climb up the ladder on the right and proceed up the next ladder on the top
+ledge.
+
+This is our first encounter with spikes. They will kill you if you jump into a
+pit of spikes, so obviously, you have to avoid them. Here, we have a ladder
+right above some spikes, and two ways to get to the ladder. You can climb up the
+ladder you got onto this screen with, turn around and kill the penguin that
+tries to bomb forward at you, and then race yourself past the platforms and
+climb the ladder. Or from the bottom ledge, you can jump to the ladder, shoot
+the penguin, and simply climb up.
+
+Alright, I hope you're ready. This is where the stage difficulty goes from easy
+to medium. There will be a small enemy covered with armor floating above a pit
+of spikes, which can be crossed with three tiny little platforms. However, if
+the small enemy shoots at you, you may very well fall off the platform and into
+the spikes. They know of no mercy. However, I have devised a strategy that I
+hope will help you. First of all, ripple fire at the small robot.
+
+When it opens, it's gone. Jump to the first platform and another one appears!
+Yes, there's an unlimited number. Still on the first platform, destroy the robot
+and hop to the second platform, and jump out of the way when it shoots. Now hop
+to the third platform and then away from those bloody spikes! Once you're there,
+you can fight another Shielded Gunner by jumping over to ledge on the right
+after climbing the ladder. You'll get an extra life for it, so make your own
+decision of whether or not you want to fight it.
+
+Either way, whether the Shielded Gunner is gone or not, you can head to the
+right and find a gate. Oh, I wonder what that is? Kill the Shielded Gunner
+patiently to find out. When you're inside, jump onto the ladder, but don't climb
+yet. Fall to the right and then some enemies there will miss you trying to hit
+you. While falling, grab the ladder around the bottom and continue climbing,
+then wait for the robots to cling to the wall on the right. Then you will fall
+into a small chamber... where a boss awaits you!
+
+------------------------------------------------------------------------------
+                 BOSS FIGHT: BOMB MAN || DIFFICULTY: EASY
+------------------------------------------------------------------------------
+
+There is no realistic difficulty in Bomb Man. Even without the Fire Storm, he
+poses no threat whatsoever. He is incredibly slow to attack, needs about 10 hits
+to go down, and can be very easily avoided. What he'll do is occasionally jump
+around, throw a bomb to the floor and then let it blow, then throw another one
+or jump around some more. Don't get me wrong, his bombs are very powerful.
+However, it's very easy to see where they will land and then immediately avoid
+them.
+
+Every time Bomb Man throws a bomb, run away and then when the bomb misses, turn
+around and shoot at the poor robot. He will either try to jump at you or throw
+another bomb. You'll have to watch out for him if he tries to jump at you, since
+that's also very damaging. If he does do this, you will be able to get a few
+good hits at him before he starts throwing a bomb and you need to run, all the
+same. Repeat first running away from Bomb Man and then landing some hits on him,
+and collect that orb of his!
+
+You can now throw bombs, a fairly useless ability. They're really slow, but
+there is one who's slower...
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+6b. GUTS MAN
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Level Difficulty: Easy
+Boss Difficulty: Easy
+
+Guts Man's stage can be _slightly_ difficult at the very start of it, although
+after that it becomes one of the easiest in the game. Start by heading a bit to
+the right and you'll meet up with a very classic enemy to the whole Mega Man
+franchise: a Metool. They're designed a little different than what they are in
+future titles, though. They will hide in their shells, eventually open their
+eyes, and shoot in three directions. You will have to shoot it then.
+
+After killing that Metool, as well as two others, you will reach the tough part
+of the stage: a lift going from one side to another on a rail. Don't understand
+what I mean? You don't have to. Anyway, wait for a lift to appear on the track
+to your right, and jump on it. Look down, and you may see two lifts on tracks I
+named these: Shaky Lift and Track to Death. They're dangerous, as they have thin
+areas in the track! What I mean is, there you will be dumped.
+
+Nothing like that will happen on the first track, however. Wait for the lift to
+reach the end of the line, and then go back. Now jump to the lift below. When
+the left part of the lift reaches the gap, JUMP! The lift dumps anything on it
+into the void below, including you. After that jump, you'll reach the end of it,
+where you'll have to make another jump. The lift then turns back and makes you
+jump even quicker. Be sure to time it well.
+
+As the lift heads back, check the one below. Do not jump to it when it's about
+to get to any of the five gaps in it; that's a recipe for disaster. Instead,
+around the time this lift gets to the first gap again, jump to the third one.
+You'll have to make five jumps this time around, but this one isn't hard since
+by now you're definitely used to this crap. When it reaches the very end of the
+rail, jump to the path on the right. NOW WE'RE OUT OF THE MAYHEM PATH AND BACK
+ON THE EASY PATH!
+
+Right above you are three Gnawers. These robots have teeth at the bottom of them
+and like to charge at you from above, but they fly. They're not really worth
+jumping to and dealing with, so just head to the right and ignore them. After
+that you will find Construction Workers along the path, which fight a lot like
+Shielded Gunners, but are a lot easier. Seriously, all you will need to do is
+wait for them to lower their shields, and hold the triangle button right on
+them... my god, that works. ^_^
+
+After the Construction Workers are done for, you'll find yourself jumping across
+spikes. Ahoy, mateys! Another Construction Worker be upon us! Keep at your side
+of the ledge and shoot, you'll have no problem. Move across the platforms and
+then at the end, you'll meet yet another Construction Worker, but this is the
+last one. The Hyper Bomb can easily take him out. After defeating him, jump to
+the first platform on the right, then to the left and into the ditch...
+
+Fall on the platform to the left. If you have the Hyper Bomb or any other weapon
+with a relatively low amount of ammunition, switch to it, and then fall down to
+the left. When you land on the next platform, refill any weapon that's slightly
+down on energy, with the pellet. After doing so, fall into the ditch on the
+right but hold the left button down. Now try and jump to the far platform on the
+left, which carries an extra life. You may fail, but it's alright since you'll
+be out of this stuff quickly.
+
+Below, you'll find an enemy that didn't make its appearance in Bomb Man's stage:
+a Brain Hopper (the Navi mode in MMAC shows the name). I do NOT recommend taking
+these guys on, since they're extremely strong. Three hits, you're a goner. It
+can take a hell of a lot of damage, so it's best to head under them when they
+jump. Plus, why bother when the gate to Guts Man is right behind the Brain
+Hopper anyway? The gate is easy enough. There will be several Metools in the way
+around here. Shoot constantly and you'll kill them as soon as they open their
+shells. It gets better from there!
+
+------------------------------------------------------------------------------
+                 BOSS FIGHT: GUTS MAN || DIFFICULTY: EASY
+------------------------------------------------------------------------------
+
+Guts Man has to be one of the most shallow, stupid, and easiest bosses that's
+ever been in a game. He's just as easy as Bomb Man, if not easier. What he'll do
+the whole fight will be jumping across the room, driving Mega Man off of his
+feet and bringing a boulder down from the ceiling into his arms. Then he will
+throw the boulder at the rocks below Mega Man, and they will break into several
+pieces of debris in which Mega Man will need to avoid. To avoid it, stay between
+the two rocks and jump to the edge of the second when the rock is thrown. Easy.
+
+With this method, you are very unlikely to take a hit. Guts Man has to be one of
+the slowest bosses in the entire history of gaming in terms of movement, so
+that'll leave time for the Hyper Bomb to go off, although I feel the Mega Buster
+to work better, although it'll take 13 hits instead of 3 from the Hyper Bomb.
+When Guts Man jumps, shoot him. When he throws a boulder, nail him with a bomb.
+And we have gotten through the official most weird boss fight.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+6c. CUT MAN
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Level Difficulty: Easy
+Boss Difficulty: Easy
+
+The definite first thing you'll see in this stage is that it's full of Super Arm
+blocks, but don't waste time with them. Instead, take a small left and climb up
+the ladder there and head right. Remember the Gnawers from Guts Man's stage?
+Well, they're back here to play. Three of 'em will come after you, so wait for
+them to get at an angle from you and then shoot at them. Now jump to the next
+ledge.
+
+Ignore the Super Arm blocks again. Three more Gnawers want to chew on 'dat, so
+give 'em something to chew on, rather than you (like your arm cannon!). Jump to
+the Super Arm block and then further down to find some turrets upon the wall. We
+can't hurt them until they open, so stand on the step on to the right and wait
+for the turret there to open, and then shoot. Climb up the ladder on the left
+while turning right to take out the turrets when they open, and jump to the
+platform on the right and climb up!
+
+On the right is one of those turrets, so do what you did last time to destroy
+it. Jump to the left to continue after that, then climb the ladder to the left
+and destroy the turret on the step, then destroy another one up the next step
+and climb the next ladder. Over here... take a left and jump-climb up the ladder
+on the left. Destroy the turrets on the right in a couple seconds' time, then
+hop up the stairs on the right, which will lead us to another ladder. Just like
+last screen... *sigh*
+
+Ah well, just avoid the turret below, jump over to the left and climb up the
+ladder, then just take the steps on the right and climb up to the next
+screen, and we're PAST the turrets. Good, cuz it's coming back in one second
+anyway. Fooled you. The machine right up ahead will generate scissors to fly
+out, but just run past and you won't get hit (that is, don't stop). And at the
+right, what I call Eyeball Turrets (told you about the new turrets) will move
+up and down. So yeah, not really turrets, but just jump up and climb ladders.
+
+You may want to use the Super Arm to lift these blocks and hurl them up at the
+Eyeball Turrets here and there, but meh, not if you don't want to. You've
+basically got three more screens filled with Eyeball Turrets, none of which are
+that hard. The usual formula works of jumping around, using one of three weapons
+to damage them, and climbing up the ladders will work. Just be careful around
+the tight corner at the end, where they surround you. Take them out quickly,
+and you'll reach another machine which generates scissors.
+
+No problem getting past it, right? Dash past it, to get ambushed by some more
+Gnawers. Am I the only one who thinks this place is really linear, by the way?
+Whoops, a line of meaningless drivel. Climb down the ladder right up ahead,
+where you'll find one of those enemies that spits bullets out in several
+different directions. Jumping is usually very effective in avoiding the bullets,
+but they aren't that dangerous to begin with. Use the platforms to get out
+quickly, but don't fall in the spikes. That really hurts.
+
+After that business is over with, you'll end with the Cut Man gate behind a
+Brain Hopper. Fortunately though, you have the advantage of having some Super
+Arm blocks to throw, so use them to either throw or dodge, and you'll emerge
+from that victorious. Right beyond it is the gate, which has some usual, boring
+everyday turrets. Blah, I ain't got no time for that. Press on, and prepare to
+do battle with the scissor dude himself.
+
+------------------------------------------------------------------------------
+                  BOSS FIGHT: CUT MAN || DIFFICULTY: EASY
+------------------------------------------------------------------------------
+
+Cut Man is one of my favorite robot masters to fight, mainly because he goes
+down so easily (easier than Bomb Man or Guts Man) and is plenty of fun to fight,
+with a nice pattern. But back to Cut Man's going so easily! To destroy him in a
+couple seconds, jump off the Super Arm blocks and pick them up. Wait for Cut Man
+to get out of the way, and then throw the block at him to pick off half of his
+health. Haha! Now repeat with another block and throw it at Cut Man to destroy
+him. Poor, poor Cut Man. :(
+
+Of course, it's just as easy with the buster. Cut Man can throw a pair of
+scissors forward, which will damage you if it connects. However, you can really
+delay Cut Man by hitting him. He'll be pushed back and will then throw a pair of
+scissors. You can hit him a few more times, but try to jump over the scissors
+twice, as they will act like a boomerang. Continue to fire at Cut Man while
+jumping over the scissors carefully and watching out for his jumps, and you
+won't take but a hit.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+6d. ELEC MAN
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Level Difficulty: Medium
+Boss Difficulty: Hard
+
+Despite being "medium" along with Bomb Man and Fire Man's stages, Elec Man
+easily takes the cake as being almost as annoying as Ice Man's stage and
+probably the most frustrating one yet. Elec Man's stage has two paths you can
+take to get to the end of the level, lots of electricity outlets that try to
+buzz you off (har har) and by far the hardest robot master in the game. So now
+that we're ready, let's get started.
+
+Elec Man's stage definitely starts out annoying enough, with some robots
+guarding the platforms going along this room. The platforms are arranged so that
+one is directly above you, with the first one being on the left, the second on
+the right, the third one on the left, and the final one on the right. You have
+to make long, good jumps to the different platforms if you wanna get there. I
+would begin with eliminating the robots with the Rolling Cutters, however. After
+that, start jumping!
+
+Make the jumps as long as you can, and you'll do it. Once you're at the ladder
+on the other side, climb to the top and destroy both robots with the Rolling
+Cutters. Now jump to the platform on the left, then to the ledge on the left,
+and then start climbing! The next screen isn't much different, except this time
+there are some platforms with electricity coming out of the right sides of them.
+If you wish, you can fall down the ladder on the right, although that doesn't
+stop you from needing to avoid these platforms and their electricity.
+
+If you fall down the ladder on the right, you'll get a large energy pellet, not
+bad! But as for this screen, first wait for the electricity to stop in both
+outlets. Keep in mind that the outlets CANNOT be destroyed, no matter what you
+do. After jumping to the first platform, quickly get to the second and then
+climb up that ladder there. And on the next screen... yes. We are still climbing
+up that ladder.
+
+Seems pretty easy to get to the top, yes? That's until you get almost to the top
+and robots hereby named the Zappers (they zap you while climbing the ladder,
+trying to knock you off) appear. If you get zapped by one of them, they fly off
+and let you fall down until you can gain grip again on the ladder. You'll be
+damaged and heavily distracted. Keep on shooting to the left as they appear, and
+quickly climb up so the ones that appear below you can't get up and bother you.
+After the three that appear from the top are gone, climb to the next screen.
+
+Too bad. It's the same old ladder. More Zappers will appear, in the same
+formation as before. They come in a pair of six, with three attacking from the
+top of the ladder and three of them from the bottom. Do what you did earlier and
+then climb up to... a single tiny little platform? ...The hell? Two ladders can
+be found on the right, so I guess it had to be time for blocks to appear and
+disappear everywhere. This is easy enough. Continuously jump into the air,
+waiting for a block to appear below you. It's alright if you can't make it,
+since you'll learn from your mistakes!
+
+You want the ladder on the right. A block appears above you, then one will
+appear to the left. At the same speed as that one appeared, the first block
+disappears and is replaced with one on the right, which will let you jump to the
+ladder on the far right. Alright, so after a block appears to the left, wait
+half a second and then jump to the upper-right, and then to the ladder. Simple
+enough. Start climbing, and avoid the goodies on the left. You really don't need
+them.
+
+A line of blocks will then appear in front of you, these ones being MUCH easier
+to cross than the previous few. It's in a simple straight line, and the blocks
+even appear in order! When one appears in front of you, walk there immediately
+and then you'll easily get to the ladder on the left. Start climbing up, and
+you'll find that we're at a checkpoint, halfway through Elec Man's stage. Be
+warned. The fun starts here.
+
+The blocks here, fortunately enough, are solid ones that are easily crossed.
+Simply jump to the one on the right (you can jump to the left and get the large
+health pellet there if you want), then twice more to the right, then to the
+left, then to the ladder above, ignoring the platform on the right. Now you can
+climb up the ladder there! The next area is quite fun, since it's split in two,
+the paths come to a meeting, then the paths split up again, leading to Elec Man.
+
+First of all, stay where you are and wait for more Zappers to come along, and
+then you can shoot 'em. Now, choose either ladder you want. I personally like
+the one on the left more since it's more open, it's quicker, and it has less
+stuff to avoid (I hate electricity outlets) but it's your choice. After making
+sure the Zappers are gone, climb up the ladder. On the next screen, you'll find
+more robots to the left, and electricity outlets to the right. Either way, you
+know the drill.
+
+After using the Rolling Cutters, jump and climb up the ladder on the left. Or if
+you're on the right, head to the right and continue climbing. On the next
+screen, no matter what path you took, there are no spikey robots or electricity
+outlets. There are Zappers! Shoot when they get near, as usual. After that, the
+paths will meet up. Take a left if you took the right path, and then climb the
+ladder. Alright, there's an object over there, I wonder how to get it...?
+
+Easy. Use the Super Arm. Lift all the blocks and throw them to pieces, and
+collect the Magnet Beam there. This isn't a weapon for simply attacking enemies;
+it's a weapon that will help you climb up by creating platforms. You cannot
+proceed in Dr. Wily's castle if you don't have the Magnet Beam, so you must
+collect it! Anyway, the next two ladders will follow in exactly what the last
+two paths did: there will be electricity to avoid in the right path, and robots
+to defeat in the left path.
+
+Whichever path you take, it'll be almost identical to that of the previous few
+screens ago. You'll find some robots or some electricity, depending on the
+ladder you took, and then there will be more Zappers to destroy. Yawn. At the
+top of either ladder, you'll find a ledge that leads onward, but you cannot
+proceed if you took the right path and didn't get the Magnet Beam. And the left
+one is easier. Minus ten points for the path on the right.
+
+There are small Hoppers around here which can knock you off a ladder, so climb
+quickly. If you took the left path, a Hopper will probably fall down the ladder
+and the other will be harmless! On the other hand, the right path will make them
+a little more dangerous. And if you took the right path, you have to first use
+your Super Arm to throw the block away, and then use the Magnet Beam to climb to
+the ledge above. Oh, how troublesome that be! Anyway, good luck. Climb up the
+next ladder.
+
+Man are we getting repetitive here. This screen is exactly the same as the one
+that led to the checkpoint (with the solid blocks you had to jump in midair)
+except for the energy pellet, which isn't there. Simply jump over to the ladder
+on the right, then climb up. The next screen features electric outlets, as
+usual, this time on top of platforms. After they stop, quickly jump across them
+and climb the ladder on the right. Once you're at the top, you find a Brain
+Hopper.
+
+You have to have energy enough to survive one of its attacks, otherwise you have
+to start all over again from the beginning of the ladder paths, unless you can
+time the Brain Hopper. Either way, good luck. Once inside, start climbing the
+ladder. It's made up of three screens, one is harmless, one has electricity
+flowing out of the outlet in the middle, and after that, two other outlets will
+buzz at you. Avoid this carefully, and repeat the exact same thing with the next
+screen! Now we're finally at Elec Man.
+
+------------------------------------------------------------------------------
+                 BOSS FIGHT: ELEC MAN || DIFFICULTY: HARD
+------------------------------------------------------------------------------
+
+Elec Man is nearly impossible to beat, unless you have the Rolling Cutters. Why
+is Elec Man almost impossible to beat? He's even quicker than Cut Man, for your
+information. He can definitely jump on top of you and slaughter you to pieces.
+Speaking of slaughtering, he can also use one VERY hard to dodge attack called
+the Thunder Beam (which you get after this fight!) which will go in all
+directions except behind him. The Thunder Beam is really tall, so it'll be hard
+to jump over it.
+
+With the Super Arm, Elec Man is definitely POSSIBLE, although then you'll get a
+huge battle field and 20 difficult hits you have to make before Elec Man can
+make three easy hits. It'll be all up to you then; it's important to go under
+Elec Man to avoid his jumps, jump a lot so you don't get electrocuted, and shoot
+when you get the opportunity. It'll be a long, tough fight, but it's not at the
+impossible mark. With the Rolling Cutters, however, you don't even need a
+strategy. Simply "cut" off 1/3 of the health by throwing it at him while really
+close to him, and let it go back. Throw it some more and you win!
+
+You've now gained what's arguably the best weapon in Mega Man 1: the Thunder
+Beam. Not ultimately vital, but a hell of a useful weapon all the same.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+6e. ICE MAN
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Level Difficulty: Medium
+Boss Difficulty: Medium
+
+Ice Man's stage is easily the most annoying in the game. Lots of blocks that
+appear and disappear greet you here, and then it gets even worse from there!
+Blast that! The first half of the stage, however, is quite easy. Head forward
+and whoosh! A swooping robot wants you! No, not that wanting. I mean he wants
+Mega Man's robotic chassis! To take it out, jump and fire at the head. Don't
+even look at the abdomen. When the head's gone, the robot is.
+
+Head forward and then what do you know? Two more swooping robots. Fight 'em off
+with your good ol' buster, and jump into the lake. Yeah, you're now passing
+underwater, but the thing that's crazy is that you cannot jump any higher in
+this splashin' wet mess. There will indeed be annoying Springbots on the way,
+but even more annoying are Penguins that try to crash into you! They, however,
+can be taken out with rapid arm cannon fire.
+
+Keep on the small underwater platforms, so that Springbots can't hit you. Keep
+jumping, and when a Penguin comes by, use either your arm cannon or the Thunder
+Beam. After you get to the other side, head to the right and fall into the small
+hole and take a left. Use the Thunder Beam to take out both of the small box
+robots along the way, and restore any health that's been lost with the energy
+pellet. Now, proudly fall into the ditch on the right!
+
+This is already a checkpoint, although what's really annoying in Ice Man's stage
+has yet to come. First of all, use the Thunder Beam to take out the robot on the
+floor so it doesn't get in your way. After that, wait for a block on the left to
+appear. Not on the very far left, but to the left of the room nonetheless. After
+that, a block on the VERY far left appears. Jump there. After that, make a jump
+as far to the right as you can go, even though a block's not already there.
+Trust me! It'll appear before you land!
+
+When you're there, wait for a block to appear at the far right, and then jump
+there. Now wait about two seconds and jump as far to the left as you can.
+Behold; a block will appear there! Jump to the platform on the far upper-left
+and fall in the hole there to find yet another puzzle. This time, due to
+overcomplexity, I will draw an ASCII map for you, so you can easily do this
+puzzle.
+
+                     [9]   [  GOAL  ]
+              [8]
+
+              [7]   [6]
+                        [5]
+     [1]    [2]
+                   [3]   [4]
+[  START  ]
+
+Simple enough, this is. You CAN always start from 4, although I listed the first
+three just in case. Keep in mind that if you start from #1, you will have to
+make really good jumps, since other blocks will appear above you (and no, you
+can't jump to them). Of course, the Magnet Beam could always help you out here.
+:) Anyway, make those simple jumps until you reach #4.
+
+Once you're at #4, jump up and slightly to the left to get to #5, and then make
+a small jump to the left to reach #6. Now jump far to the left and get on #7,
+and then jump plain in the air and #8 will appear there. Now make a simple jump
+over to #9 and then to the goal, outside of the time-consuming disappearing
+block crap, and entering the life-risking, platforms-in-the-sky crap! Man, this
+stuff sucks!
+
+In midair, there are a bunch of platforms which must be jumped across, which
+will every now and then shoot to their left and right simultaneously. If you get
+hit, you could fall off. There are a total of eight platforms which you'll have
+to jump. There's not really a whole lot of strategy, except to wait for a
+platform to move near you and then use the Magnet Beam (if necessary, of course)
+to get there. Halfway through, you can recharge the Thunder Beam or Magnet Beam
+with the weapon energy pellet, if you wish.
+
+The next four jumps, sadly, are much tougher to make than the first four, since
+you'll have penguins bombing forward. Use the Thunder Beam to quickly eliminate
+them when they draw near, and the Magnet Beam to help you walk forward. After
+you reach the other side, start to fall down the ditch, but hug the left side of
+the wall. Doing that, you'll land on a small ledge with an extra life. After
+collecting it, simply fall further into the ditch.
+
+Follow the path to the left and you'll find several energy pellets, some for
+health and some for weapons. Afterwards, fall to the right and then into yet
+another ditch on the left to find a Brain Hopper. Again, walk under it when it
+gets close and possibly attack it from behind it, if you have enough time.
+Inside the boss gate, use the arm cannon and KEEP IT GOING! Penguins will start
+bombing in, so you wouldn't want to get injured. After the gate at the other
+side...
+
+------------------------------------------------------------------------------
+                 BOSS FIGHT: ICE MAN || DIFFICULTY: MEDIUM
+------------------------------------------------------------------------------
+
+I deem Ice Man to be the toughest of the six bosses, except for Elec Man. Much
+like Elec Man, Ice Man can kill you in three hits with his Ice Slasher.
+Fortunately, he's even easier to kill with the Thunder Beam than Elec Man was
+with the Rolling Cutter. First of all, Ice Man can fire his Ice Slasher six
+times at once. If you want to avoid it (in which you'll have to) you have to
+jump over it.
+
+           <  <
+         <      <
+(MM)   <          <   (IM)
+==========================
+
+This is an ASCII of how Ice Man fires the Ice Slasher. The farther to the left
+the attack is, the quicker that wave will get to you. First of all, shoot at
+Ice Man rapidly while trying to avoid them. Jump over the first wave, and fall
+between the first and second. The fourth and fifth ones will then come. After
+they do come, jump over the fifth and hug the right button, avoiding the sixth.
+While doing this, fire at Ice Man with the arm cannon.
+
+If you have the Thunder Beam, Ice Man won't touch you. You can even cheat by
+pressing select a lot if you want, so Ice Man will die before he barely even
+shoots. Ice Man's pattern will always repeat itself, so there's no need to worry
+about that. You can do it without getting hit, but you'll have to concentrate on
+avoiding the damn ice waves while firing. Once Ice Man's defeated, grab one of
+the best weapons: the Ice Slasher. With that, we can now leave and head on to
+Fire Man's stage.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+6f. FIRE MAN
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Level Difficulty: Medium
+Boss Difficulty: Medium
+
+Fire Man's stage is probably the longest of all the stages, although not
+necessarily the hardest. Besides the bright red walls of the stage and the
+burning lava below you, a thing that will stick out is some turrets up the
+ladders on the right. Start by climbing the one on the right when the turret
+above you stops firing. When you're at the top of that ladder, destroy the
+turret before it gets another chance and then head to the bottom of the ladder
+on the left.
+
+Climb up and move to the right, shooting at the turrets on the way. There are
+three in the way which you'll need to shoot at, being the very kind man you are.
+:) At the end of that path, climb down the ladder and take out yet ANOTHER
+turret in the way, then you can finally climb down and be past all the damn
+turrets! The next part of this stage is quite interesting. Pillars of fire will
+be started at certain ignition points, and flame bombs will erupt from the
+magma below. It's hell, I tell you.
+
+Wait until some bombs appear from the lava, and immediately annihilate them with
+a quick use of the Thunder Beam. Jump to the platform on the right and wait for
+a fire to start there. Now sit there and wait for it to go out, and jump to the
+right and climb up the ladder! If you want the energy pellet on the left, take
+out any bombs that appear and then jump over there. Not tough at all. If you do
+that, then jump back and climb up the ladder.
+
+On the left you'll see two pillars of flame, and energy pellets behind both.
+Time the fire and get the energy pellets if you want, and then just make your
+way to the ladder on the left. You'll see two more pillars of flame blocking the
+passage forward, so use the Ice Slasher to freeze the flame or time it so you
+can pass through. Or you can use the Magnet Beam to reach the ledge at the top
+and collect some extra weapon energy pellets.
+
+Below you are thirty walls full of ice that burn if anything comes along that is
+warmer than -100 degrees Celsius. Actually, it's a bunch of walls of fire going
+horizontally instead of vertically. There are also fire bombs appearing from the
+magma, although we're all used to that by now. Whichever place you are, jump to
+the ledge below and then to the one on the right, while using the Thunder Beam
+to take care of the fire bombs. Jumping to the right should be no problem.
+
+Jump to the ledge on the right and climb down the ladder, landing right to the
+left of a fire wall. Ah? Freeze it if you wish, then simply avoid another one of
+these and fall into the ditch on the very left side. Hug to the right a little
+bit so you are less likely to fall into the magma below, and we land on a lone
+little platform above molten lava! However, you can always jump to the left side
+of the platform on the right, before bombs or flame hit you.
+
+Take out some bombs with the Thunder Beam or freeze the flames with the Ice
+Slasher if necessary, then jump to the ledge on the right and walk forward,
+jumping to another platform over molten lava. Wait for bombs to appear if
+necessary, and then jump over to the right side of the room, where you'll find a
+ladder to climb! A note is, doesn't the sewage on the right look rather weird?
+Flames being dumped into an ocean of fire. What is the world coming to?
+
+And that is what we have to dodge on the next screen. Flames will be going
+through the sewage plant, and WILL hit if you try to pass through, in which
+you'll have to. If you do, make sure you time the fire just right and head over
+to the other side of the room at the exact time that's needed. Or you can take a
+much easier path by using the Magnet Beam to climb up the wall and then moving
+on without being hit in the sewage. You gotta hold something to my genius.
+
+Up above, we find two things that really, really annoyed us: the swaying robots
+from Elec Man's stage and Jet Bombers from Bomb Man's stage. The Jet Bombers
+come first. Climb up the steps on the right and fire at the Jet Bomber when it
+comes along, then once you're at the top of the ledge, head forward and
+constantly keep shooting in case another Jet Bomber comes along. There, we got
+past that. At the end of the path, unfortunately, is a swaying robot. Use the
+Thunder Beam this time around!
+
+Once you wipe it out, head down the ladder and destroy the next robot. On a side
+note, I think the layout of this final part of Fire Man's stage is quite like
+the beginning of it. At the bottom, destroy yet another one of them, and climb
+up the ladder on the right to refill your Ice Slasher or Thunder Beam! Ah,
+nothing like a weapon energy pellet. The rest is simple. Jump across the
+platforms while waiting for bombs to appear, and when they do come, taking them
+out with the Thunder Beam is no problem.
+
+Jump over to the right, to find that the boss gate is guarded by two walls of
+fire. No problem, freeze the first one if you like, and get past the second one.
+The boss gate itself couldn't be easier, even with the arm cannon. But why use
+that when we have the Thunder Beam? Simply use it as soon as you see a turret in
+view, and the Thunder Beam will destroy it. And now, simply enter the boss gates
+to fight Fire Man.
+
+------------------------------------------------------------------------------
+                 BOSS FIGHT: FIRE MAN || DIFFICULTY: MEDIUM
+------------------------------------------------------------------------------
+
+The battle with Fire Man requires that you're always there attacking, showing no
+mercy. Fire Man's Fire Storm is extremely difficult to dodge, although it's not
+anywhere near as powerful as Elec Man's Thunder Beam or Ice Man's Ice Slasher.
+Fire Man can shoot walls of fire very quickly at you, and if you do manage to
+avoid one of them, the one after that is likely to hit you before you land and
+make another jump.
+
+Fire Man will never quit FIRING (haha, am I hilarious or what?) at you, except
+for an occasional brief break that last for about one second after shooting a
+bunch of fire walls. This means that you too have to be aggressive. Equip that
+Ice Slasher and get as close to him as you can. First of all, get off a few hits
+at him with your cold, cold Ice Slasher. Fire Man will definitely hit you, but
+just let him! You'll be invincible for a second or two, allowing you to get off
+about two more hits at Fire Man.
+
+Repeat the pattern after that, but it's important that if you have the arm
+cannon, you keep shooting at him at all possible times. In a straight fight, it
+all comes down to who is firing more often. But if you are, you will just barely
+win the battle. With the Ice Slasher, it's much easier. After a simple battle,
+collect the orb he drops, and now we can go on to Dr. Wily! Unfortunately, we
+have three stages to go to before him...
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+6g. THE YELLOW DEVIL
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Level Difficulty: Medium
+Boss Difficulty: Very Hard
+
+If you think this level is difficult, you ain't see nothin'. The boss at the end
+of this is ultimately hard, probably the toughest in the whole Mega Man NES
+series. However, I can't go on about how tough the boss is, can I? Start by
+equipping the Ice Slasher and heading right, and we see a Brain Hopper. Great.
+However, to freeze it, just hit it with the Ice Slasher, then jump and blast it
+down. Move on!
+
+Head straight forward, finding little to nothing but a regular path in front of
+you. And just like before, a Brain Hopper comes along. Use the Ice Slasher and
+the arm cannon to destroy it like you did the last, and walk along until you
+reach some steps, with another Brain Hopper on top! Wait until it drops to the
+step right above you and then hit it with the Ice Slasher and jump shot at it
+like you've done several times before. From there, you can safely proceed to a
+dead end!
+
+Fooled you, didn't I? Switch to the Super Arm and throw those blocks away, until
+we find something from Fire Man's stage: the flames. This time, you have make a
+bunch of jumps from platform to platform, with the ceiling above you and flames
+below you. When the flames stop, run and try to just about fall but then jump to
+the next platform. Repeat this again and then make a simple jump while avoiding
+the next pillar of flame, and then you can climb up the ladder.
+
+Once you're up there, continue to the right while destroying the bouncy robots
+along the way, until you find three more blocks along the way! Ignore the bouncy
+robots there and perhaps use Guts Man's brilliant weapon to destroy them, but
+you'll reach a ladder there anyway. In the next room, something from Ice Man's
+stage comes back to challenge us: jumping across living platforms. That makes
+three stages this place has in common with: Ice Man's, Fire Man's, and Cut
+Man's.
+
+This is no harder than it was in Ice Man's stage. Like before, the Magnet Beam
+comes in handy, although I wouldn't overuse it. Just be careful of the spikes on
+the ceiling while using the Magnet Beam when needed, and you'll reach two weapon
+energy pellets and a ladder. Make sure the Magnet Beam is completely juiced up,
+and then you can climb up. What now? A wall blocking the way up to another
+section of the room, which has a ladder that's at the very top of the room.
+
+For the first time, we HAVE to use the Magnet Beam. Head to the far right side
+of the room and use a Magnet Beam on the wall to the left, then jump slightly
+and put another magnet on the wall to the right, and then use a couple more
+until you can climb the wall to the other side of the room. Jump slightly and
+press the fire to put a magnet there, then jump and put another one to the
+right, then another one should get you to the ladder. After that, simply walk
+into the next room.
+
+------------------------------------------------------------------------------
+              BOSS FIGHT: YELLOW DEVIL || DIFFICULTY: VERY HARD
+------------------------------------------------------------------------------
+
+Rarely do I give a boss the gleaming title of "Very Hard". If one boss in all of
+the original Mega Man deserves to be called very hard, it's the Yellow Devil.
+Simply put, you don't get tougher than this in Mega Man. If you beat this, you
+can easily get past anything else that Mega Man 1, or the whole series throws at
+you. Anyway, enough of me going on. More about the boss!
+
+The Yellow Devil attacks like this: first of all, several blocks will appear
+from the left, and move over to the right to form a robot made of rock. There
+are five rows of rocks: two lower on the floor, and three above. You'll have to
+jump over the lower ones and not jump over the higher ones. Sound easy? Well, if
+we were doing this twice or so, yes it would. However, no less than 19 blocks
+will quickly fly to the right, making the Yellow Devil, and we have to dodge all
+of them no less than seven times. Yeah, you heard me right.
+
+Get hit a total of seven times, and you're a dead guy. Fine enough as it is, but
+we're forgetting what happens when the Yellow Devil is formed. Once it is, you
+will have to do everything right, including hitting it at the exact time with
+the Thunder Beam (if you don't get it on the first try then enjoy dodging blocks
+again) and avoiding the Yellow Devil's attack, which is worth twice as much
+damage as a block attack.
+
+First of all, let's take care of the Yellow Devil pulling itself together. Head
+to the middle of the stage, and when the first block comes along, you'll have to
+jump over it. Fine enough. Take a small jump to the right afterwards, since if
+you jump too high you'll get hit by the next block. After that one builds a part
+of the Yellow Devil, jump over the next block. One that's really high in the air
+will fly to the right, so ignore that. Same with the next one. The one after
+that, jump.
+
+The Yellow Devil's next attack will pass over you, and the one after that will
+REALLY pass over you! It's a conspiracy! Unfortunately, the next part can be
+really tough. Two blocks, one in the bottom row and one in the one after it will
+come at you. This can be really tricky and might take several tries, but do it
+by first making the highest jump you can over the bottom block, and then hit the
+left button to avoid the next attack.
+
+Make a small right after that, since if you're too high up the next attack will
+hit. The next two blocks are far over you, so no need to trouble with that.
+After those, jump over the next block, then just avoid jumping into the next
+three attacks. One attack will sweep the ground as it goes, and then the last
+block will make up one of the Yellow Devil's arms. Dodging these attacks is a
+lot harder than I make it sound, and it may take up to thirty tries to get used
+to doing it and being able to beat the Yellow Devil.
+
+The attacks will also come in _really_ fast. Make sure you use the guide, think
+fast, and act fast. When the Yellow Devil's full body is formed, a small eyeball
+will appear, so that's where you shoot. Yep, shoot a robot right in the eye!
+What a proud person you should be! *ahem* The weapon to use is the Thunder Beam.
+Very weak, but the strongest and best weapon that we can use. You may wish to
+fire the beam before the eye appears, since the Thunder Beam is so damn slow.
+
+Once the devil has been formed for a second or two (giving you time to only hit
+it with the Thunder Beam once... grrr...) it'll split up again, and then reform
+at the other side of the room. It will reform in the exact same way that it
+formed in the first place, so look to the strategy above but just switch "left"
+with "right" and "right" to "left" in the strategy. After this, it's all about
+talent and skill. There's no more I can give you and tell you unless you wish to
+cheat.
+
+If you do cheat, I can't say I don't blame you, but if you do indeed choose
+to... this requires timing, but not so much as some other stuff here can. When
+the Thunder Beam hits the eyeball, press select. Press it again. The Yellow
+Devil gets hit again! Press it again. And again. And again. Doing this, you can
+destroy the Yellow Devil and allow it to form once. Yeah, it's cheap, but if you
+use it, you're really not much of a cheater.
+
+Good luck, if you get past that then you have beaten Mega Man's hardest boss.
+Time to move on...
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+6h. THE CLONE BATTLE
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Level Difficulty: Medium
+Boss Difficulty: Medium
+
+Yes, this is a very interesting stage, but we have no time to marvel at anything
+that's nice in this stage; we've got awhile to go until the boss. First of all,
+when you begin, do NOT move. Two Gnawers will come from the sky and near the
+platform in front of you, and could easily catch you mid-jump and make you fall
+to your death below. Wait for them to come, shoot 'em down, and then jump to the
+next platform.
+
+More Gnawers will come at you, so if they get near, fire. After you jump a
+couple more platforms, two more robots will appear. Take them out with whatever
+weapon you wish, then jump another platform and a few more of those annoying ass
+Gnawers want to play! God... anyway, make a few more jumps while fighting off
+those creatures, then you'll find two energy pellets to the far right side and a
+dead end. Isn't that a bit strange?
+
+Walk to the energy pellets, but don't bother bringing out another weapon. You'll
+fall first, and then have to face none other than... Cut Man? That's right, the
+robot who seems to have a sexual attraction to scissors is back. The only
+problem is that there are no blocks who can lift with Guts Man's Super Arm this
+time around. So you'll have to take him on with the Mega Buster. What I'd do was
+shoot immediately, then he'll throw a pair of scissors. Jump over the scissors,
+then shoot him again, jump over them again, shoot him and he'll fall back.
+
+Be careful when Cut Man jumps at you, and make sure you keep an eye out for Cut
+Man's jumping. He'll fall directly below the highest point of his jump, giving
+you time to make sure you aren't there. Continue firing when he lands, and
+repeat the hefty process of shooting. After 14 hits, Cut Man will disappear.
+He's gone, and not once will we have to fight him again. Hip hip hooray! To get
+out of this room, fall through the invisible piece of floor to the left.
+
+It's just a single platform below you, so move on to the right, watching out for
+the turrets below you. Yanno, those things are really cakewalks because you can
+just use the Thunder Beam, which will blast down below you. Jump on over across
+the platforms, constantly blasting whatever is below you with the Thunder Beam,
+and on the other side is another path with nowhere to go. Just walk to the end
+of it, where you will drop down and come face to face with da man. Da Elec Man,
+dat is.
+
+Elec Man's actually easier now than he used to be, mainly because the floor is
+more even. You don't even have to cheat here; you can just launch out some
+Rolling Cutters, and the wires will be out. Jump over the Thunder Beam if he
+happens to shoot it, but he'll be more likely to run at you and hurt you that
+way, which is much weaker than the Thunder Beam. He'll be dead before you know
+it. And you can just go through the invisible floor, and it's your average
+ledge. You're jumpin' from here.
+
+Of course, there has to be some obstacle, and here it's those little bombs from
+below jumping out and exploding. Remember then from Bomb Man's stage? Probably
+not, but jump through carefully and you're more than good to go. Just as soon
+as you can get to the other side of this room, fall through the pit at the other
+side of this room, and you're in the checkpoint room. And at the bottom, head
+to the left and use the Magnet Beam below the extra life.
+
+You'd be lying to yourself if you say that you don't want this extra life, plus
+whenever you die it'll return. So that's just awesome. From here, whip out the
+Thunder Beam and fall over to the right, blasting the enemies there to oblivion.
+Yeah, they're the same old, same old, just much easier with the Thunder Beam.
+Fall down the pit from there, and the next area is just the same. Blast every
+single enemy there is, and in the next room, they're a bit more cramped
+together. Easy still.
+
+For this, either the Fire Storm's shield, the Thunder Beam, or the Hyper Bombs
+will work well, so you have an open choice here. And once you can finally get
+outta that hellhole, you'll end up falling with four turrets over to the right.
+These are a bit harder to take out, but a good strategy might be to stand under
+them and use the Thunder Beam, so that the shockwave will head up and take them
+all out. Treat yourself by climbing up the ladder on the left and collecting the
+large energy pellet, though. It's just a ladder or two later, ignoring turrets
+and other stuff, until you fall to reach the boss.
+
+------------------------------------------------------------------------------
+                 BOSS FIGHT: MEGA MAN || DIFFICULTY: MEDIUM
+------------------------------------------------------------------------------
+
+Some people believe that this is the hardest fight in the whole game. I think
+it's one OF the hardest, but it's not nearly as hard as the Yellow Devil. So
+anyway, this clone of you is a tough nut to crack, and I'll say right now that
+he is an exact copy of you. If you change a weapon, he'll change to that weapon
+himself. So you and he will always use the same weapon, and whatever is strong
+for you will be strong for him.
+
+But anyway, the clone is far superior to you. Speed is equal, power is far
+superior, and he's even more intelligent, as him running into you will hurt YOU
+and not him. Yargh. But you have me, so it's two versus one. TAKE DAT! The first
+thing you have to do is decide what weapon to use. If you don't want to cheat,
+then pull out the Thunder Beam. If you do want to cheat to get past this fight,
+then just use your arm cannon. So in effect, you're fighting Elec Man for the
+third time. Or yourself. Whatever.
+
+Without cheating, stay at one side of the room (away from him), and use the
+Thunder Beam wisely. Hit him with everything you have, as his health is a bit
+limited to something like the Thunder Beam. Make sure you dodge him, and run
+away very quickly when he reaches you. Cheating or not, pausing is useful,
+because doing this at such a fast paced rate can be considered suicidal. And if
+you ARE cheating, then the very quick arm cannon will make short work of Mega
+Man.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+6i. THE BUBBLE BOT
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Level Difficulty: Easy
+Boss Difficulty: Medium
+
+This stage is extremely short, but I'd definitely recommend ignoring all of the
+enemies. They are all mere wastes of time, although the Thunder Beam can
+probably destroy all of them in one hit. After (not) destroying them, jump into
+the next ditch, and we're treated to another batch of them, and a turret that
+appears on the ceiling. This time, you can destroy anything on the ground, and
+then ignore the turret on the ceiling and jump into the ditch.
+
+In the next room, there are, like before, a bunch of turrets. The Thunder Beam
+works very nicely here, since you won't need it in the boss battle. Keep walking
+right and shooting anything in the way recklessly, since the next half of the
+stage is VERY easy and short. After proceeding through that, just jump into the
+next ditch and then we find an even longer tunnel than the previous one. Walk
+forward through this yellow-colored tunnel until it all turns blue.
+
+Yep, the tunnel's now been flooded with water and will be washing you forward.
+Not even if you push back will you be able to turn back; if you push forward,
+you'll run like mad, as if Oprah Winfrey had appeared in skimpy clothing on your
+bed. Whoops, sorry. Penguins will be around this path trying to ambush you,
+although the Thunder Beam makes short work of them, just like most things we've
+fought before. As long as you've got the right button held down, you'll just
+head right while shooting the Thunder Beam ahead of you until you reach the boss
+gates.
+
+------------------------------------------------------------------------------
+                 BOSS FIGHT: BUBBLE BOT || DIFFICULTY: MEDIUM
+------------------------------------------------------------------------------
+
+OMG the early Bubble Man! Well, maybe not, but this boss will fight in a large
+group of bubbles. First of all, there are four Super Arm blocks in the middle of
+the room, a door at the upper-left of the room, a door on the upper-right, and a
+door on the ceiling. The Bubble Bot isn't exactly one boss, but rather seven. A
+bubble will randomly come out of one of the doors, and then when it's destroyed,
+1/7 of the boss health will disappear. The bubbles themselves are dangerous and
+as they go along, get faster and faster.
+
+A bubble will die in one hit from the Super Arm blocks. That means to use them,
+right? WRONG. The first three bubbles, obviously, are the easiest ones. Why
+waste the best for the worst when you'll be slaughtered by the last three
+bubbles. The Thunder Beam works well against the bubbles, but do not use it,
+since it can blast the Super Arm blocks away. The arm cannon should definitely
+suffice. Also, pray that the bubbles will come in from the middle.
+
+Stay at the right side of the top Super Arm block. If a bubble comes from the
+left door, shoot it as it comes out, then move right and dodge its fire. Shoot
+when it gets on the left and right sides, and it's done. From the middle, it's
+even better. Wait for it to land, and then continue shooting at it as it moves
+to the left. Then when it goes to the right, head to the left side of the top
+Super Arm block and shoot it from the right side. It should be dead before it
+gets to the bottom.
+
+From the right, however, it gets worse. It'll head from the right to left, so it
+WILL hit you. Still, take the opportunity to shoot, then go to the left side and
+block and shoot some more, then when it goes to the right, shoot it while it's
+over there. Then it should be gone. After three of them are gone, take the top
+Super Arm block and when one of them gets near, throw it. It's gone! Repeat with
+the bottom ones while making CAREFUL throws, and then we have this battle won!
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+6j. THE FINAL BATTLE
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Level Difficulty: Medium
+Boss Difficulty: Medium
+
+From a newbie's point of view, this would be a hard, hard stage. Fortunately,
+you've beaten Elec Man's, Guts Man's, and the Yellow Devil's stages, which this
+level is pretty much jumbled together from. I do, however, recommend that you
+cheat here, especially if this is your first time playing Mega Man. Fire Man
+(whom you will have to fight here!) will be a great pain in the neck unless you
+cheat, and although Dr. Wily is already easy, it'll make the level quite a bit
+easier.
+
+Wait a little bit standing still to find some Zappers which have come to buzz us
+off. No problem, jumping on the platform to the right and using the Thunder Beam
+should take a couple of them out, and a few more in the air are easily destroyed
+by jumping. Once they're gone, jump to the next platform and then to the ladder
+on the left. Climb up quickly and we find another pair of six Zappers! Memories
+of Elec Man's stage come back, eh? Once again, the Thunder Beam gets it done.
+
+Climb up yet again to get six more Zappers to come after you. Use the Thunder
+Beam or the arm cannon to eliminate them, and finish climbing up until we reach
+ground again! Yes, ground. That means three Super Arm blocks would have to be in
+the way. Grab the middle block, throw it away, destroy the top block by jumping
+off of the block and then hugging the block and then throwing it out of the way,
+and grab the weapon energy pellet. Not bad!
+
+Head right and more memories of Guts Man's stage will return! Yes, statues of
+Guts Man are everywhere. Fortunately, none of them will attack. Head right,
+laughing at the statues, but not laughing at the turrets on the way and jumping
+and firing the Thunder Beam at them on the way! Seriously, lots are on the
+ceiling, but the Thunder Beam will eliminate them instantly. There's also a
+turret on the floor, but that's no problem.
+
+After reaching the end of the hall, jump and climb up the ladder, take a left
+and climb up the one there, then take a right and NO THE HORROR! WE FIND THE
+LIFTS FROM GUTS MAN'S STAGE! God damn am I sick of Guts Man. However, this
+isn't quite as hard as you might think. Switch to the Magnet Beam and jump to
+the lift when it comes to pick you up, then you can allow it to head right. When
+it reaches the gap in the rail, use the Magnet Beam and jump over to the ladder.
+Make your decision: do you want an extra life and your energy/weapons refilled
+or do you want to quickly go to Dr. Wily?
+
+If you chose the first option, as soon as you get to the ladder you'll have to
+jump when the lift gets below you. After that, wait for it to head right and
+jump off at the right time to gain the two items (preferably the one on the
+right goes first). The one on the left is obviously an extra life, but the one
+on the right is a special item that restores your health and weapon energy. Very
+nice!
+
+Wait for the lift to come back to you and then jump back, and when the lift
+moves to the left, use the Magnet Beam if necessary to get back to the ladder.
+There will be a teleport at the end of the path, which will bring us back to the
+other four robot masters, besides Cut Man and Elec Man (yes, we have to fight
+Guts Man). Good luck!
+
+Bomb Man, just like he was earlier, is pathetic. Again, he'll throw bombs about
+as slowly as a snail can go from America to the Netherlands in its shell. Again,
+he'll throw bombs about as inaccurately as a blindfolded guy's fingernail would
+be on a cheetah. This time he's even easier, since we have the Fire Storm! Turn
+it on, shoot at him, and if you can, get close enough to him for the shield to
+hit him. He'll explode for good in no time.
+
+Fire Man, unlike Bomb Man, is a challenge. As usual, he'll be shooting flames at
+you vigorously, along with being really fast. It's recommended that if you cheat
+anywhere in this stage, it's here. Hit him really fast with the Ice Slasher,
+making some small jumps while doing this. With a little bit of luck, you'll
+overwhelm him in power and speed. After you get done with this, step back into
+the teleport and go to...
+
+Ice Man. He's much easier than Fire Man, although much tougher than Bomb Man
+was. Like the last battle, it's recommended you fight with the Thunder Beam
+while making small jumps. That way, you'll have very little chance of missing.
+Although the Thunder Beam is slow, it'll perfectly well hit Ice Man. Continue
+firing everything you've got at him and dodging the Ice Slasher like you did the
+last time you fought him, and then we arrive at the final battle.
+
+Guts Man, of all the robots, is one of the tougher ones to beat. What? I'm
+serious; he's a lot tougher than Bomb Man, much stronger than Ice Man, and
+rivaling Fire Man. Start by using the Hyper Bomb right where he's standing; it
+should go off before he manages to jump twice. When he throws a block,
+immediately jump to the right and the debris should miss you. The rest might be
+easier with the Mega Buster than with the Hyper Bomb. Good luck!
+
+After beating Guts Man (may these halls forever be ridden of Guts Man) you will
+finally be at the top of the castle. Take a right to find a large weapon energy
+pellet and the boss gates to Dr. Wily. Alright, I doubt you could have abused
+the Rolling Cutters or Fire Storm TOO much, but make sure both have a lot of
+ammo. Once that's done, enter the gates to begin the final battle with Dr. Wily
+in the original Mega Man...
+
+------------------------------------------------------------------------------
+                BOSS FIGHT: DR. WILY || DIFFICULTY: MEDIUM
+------------------------------------------------------------------------------
+
+Dr. Wily is surprisingly simple, for the last boss in the game. Of course, he
+wouldn't fight you one on one like a real man would, but still, his machine is
+enough to cope with as it is. It's strategy is quite simple; all it'll do is
+hurl bullets around the floor. Of course, it'll hurt if it touches you, because
+Dr. Light developed Mega Man so he sexually flinches when he's touched and is
+thus overcome with fear (hey, I would be too), but the same thing isn't true
+with Dr. Wily. I guess he's smart.
+
+Whoops, I'm babbling again. Needless to say, those are the only two ways that
+Dr. Wily can damage you, and that's not exactly a huge arsenal of attacks. The
+weak spot of his first form is the orb right in front of you, and you don't even
+need to cheat to be able to take that out. Whoop out the Fire Storm, and use it
+on that orb, over and over. If you cheat then it'll burn the thing down quicker,
+but even if you don't, you SHOULD be able to get through to the cockpit, where
+Dr. Wily himself is. Second form time.
+
+Dr. Wily still has the same arch bullet type attack, and won't even change his
+arsenal for the fight. The only difference between the two forms is that this
+one takes longer to beat. Oh, and it shows Dr. Wily himself too, if that counts
+for anything. He's also no longer weak against the Fire Storm, so the easiest
+weapon to use here would be the Rolling Cutters. Hurl them at him with all fury,
+jumping to avoid the bullets. If you do this correctly, jumping and shooting,
+and connecting it as well as you can, he'll get hit twice (or four times if you
+cheat, which isn't recommended). Dr. Wily should fall quickly.
+
+Congrats, you have officially beaten the hardest of the original six Mega Man
+games. Now for Mega Man 2. Yay.
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                           =-= 7. DAMAGE CHART =-=
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+Basically what this is, is how many hits from each weapon it takes to down one
+of the robot masters. The upper listing is each robot's stamina to each, and
+to the left are the weapons themselves, listed by the user's name itself. Man,
+am I creative or what...
+
++===========================================================================+
+| ROBOTS >|  BombMan || GutsMan || CutMan || ElecMan || IceMan || FireMan  ||
++===========================================================================+
+| MegaMan |    14    ||   13    ||   11   ||    28   ||   28   ||    14    ||
+| BombMan |    28    ||    3    ||   14   ||    14   ||    7   ||    28    ||
+| GutsMan |   N/A    ||   28    ||    2   ||    7    ||  N/A   ||   N/A    ||
+| CutMan  |    13    ||   28    ||   28   ||    3    ||   14   ||    14    ||
+| ElecMan |    13    ||   28    ||   28   ||    28   ||    3   ||    28    ||
+| IceMan  |   N/A    ||   N/A   ||   N/A  ||   N/A   ||   28   ||     7    ||
+| FireMan |     7    ||   14    ||   14   ||    28   ||   14   ||    28    ||
++===========================================================================+
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                              =-= 8. BOSSES =-=
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+Being that I am an incredibly nice person, I will list bosses back here as well
+as in the walkthrough. Nope, you don't have to tell me.
+
+------------------------------------------------------------------------------
+                 BOSS FIGHT: BOMB MAN || DIFFICULTY: EASY
+------------------------------------------------------------------------------
+
+There is no realistic difficulty in Bomb Man. Even without the Fire Storm, he
+poses no threat whatsoever. He is incredibly slow to attack, needs about 10 hits
+to go down, and can be very easily avoided. What he'll do is occasionally jump
+around, throw a bomb to the floor and then let it blow, then throw another one
+or jump around some more. Don't get me wrong, his bombs are very powerful.
+However, it's very easy to see where they will land and then immediately avoid
+them.
+
+Every time Bomb Man throws a bomb, run away and then when the bomb misses, turn
+around and shoot at the poor robot. He will either try to jump at you or throw
+another bomb. You'll have to watch out for him if he tries to jump at you, since
+that's also very damaging. If he does do this, you will be able to get a few
+good hits at him before he starts throwing a bomb and you need to run, all the
+same. Repeat first running away from Bomb Man and then landing some hits on him,
+and collect that orb of his!
+
+------------------------------------------------------------------------------
+                 BOSS FIGHT: GUTS MAN || DIFFICULTY: EASY
+------------------------------------------------------------------------------
+
+Guts Man has to be one of the most shallow, stupid, and easiest bosses that's
+ever been in a game. He's just as easy as Bomb Man, if not easier. What he'll do
+the whole fight will be jumping across the room, driving Mega Man off of his
+feet and bringing a boulder down from the ceiling into his arms. Then he will
+throw the boulder at the rocks below Mega Man, and they will break into several
+pieces of debris in which Mega Man will need to avoid. To avoid it, stay between
+the two rocks and jump to the edge of the second when the rock is thrown. Easy.
+
+With this method, you are very unlikely to take a hit. Guts Man has to be one of
+the slowest bosses in the entire history of gaming in terms of movement, so
+that'll leave time for the Hyper Bomb to go off, although I feel the Mega Buster
+to work better, although it'll take 13 hits instead of 3 from the Hyper Bomb.
+When Guts Man jumps, shoot him. When he throws a boulder, nail him with a bomb.
+And we have gotten through the official most weird boss fight.
+
+------------------------------------------------------------------------------
+                  BOSS FIGHT: CUT MAN || DIFFICULTY: EASY
+------------------------------------------------------------------------------
+
+Cut Man is one of my favorite robot masters to fight, mainly because he goes
+down so easily (easier than Bomb Man or Guts Man) and is plenty of fun to fight,
+with a nice pattern. But back to Cut Man's going so easily! To destroy him in a
+couple seconds, jump off the Super Arm blocks and pick them up. Wait for Cut Man
+to get out of the way, and then throw the block at him to pick off half of his
+health. Haha! Now repeat with another block and throw it at Cut Man to destroy
+him. Poor, poor Cut Man. :(
+
+Of course, it's just as easy with the buster. Cut Man can throw a pair of
+scissors forward, which will damage you if it connects. However, you can really
+delay Cut Man by hitting him. He'll be pushed back and will then throw a pair of
+scissors. You can hit him a few more times, but try to jump over the scissors
+twice, as they will act like a boomerang. Continue to fire at Cut Man while
+jumping over the scissors carefully and watching out for his jumps, and you
+won't take but a hit.
+
+------------------------------------------------------------------------------
+                 BOSS FIGHT: ELEC MAN || DIFFICULTY: HARD
+------------------------------------------------------------------------------
+
+Elec Man is nearly impossible to beat, unless you have the Rolling Cutters. Why
+is Elec Man almost impossible to beat? He's even quicker than Cut Man, for your
+information. He can definitely jump on top of you and slaughter you to pieces.
+Speaking of slaughtering, he can also use one VERY hard to dodge attack called
+the Thunder Beam (which you get after this fight!) which will go in all
+directions except behind him. The Thunder Beam is really tall, so it'll be hard
+to jump over it.
+
+With the Super Arm, Elec Man is definitely POSSIBLE, although then you'll get a
+huge battle field and 20 difficult hits you have to make before Elec Man can
+make three easy hits. It'll be all up to you then; it's important to go under
+Elec Man to avoid his jumps, jump a lot so you don't get electrocuted, and shoot
+when you get the opportunity. It'll be a long, tough fight, but it's not at the
+impossible mark. With the Rolling Cutters, however, you don't even need a
+strategy. Simply "cut" off 1/3 of the health by throwing it at him while really
+close to him, and let it go back. Throw it some more and you win!
+
+------------------------------------------------------------------------------
+                 BOSS FIGHT: ICE MAN || DIFFICULTY: MEDIUM
+------------------------------------------------------------------------------
+
+I deem Ice Man to be the toughest of the six bosses, except for Elec Man. Much
+like Elec Man, Ice Man can kill you in three hits with his Ice Slasher.
+Fortunately, he's even easier to kill with the Thunder Beam than Elec Man was
+with the Rolling Cutter. First of all, Ice Man can fire his Ice Slasher six
+times at once. If you want to avoid it (in which you'll have to) you have to
+jump over it.
+
+           <  <
+         <      <
+(MM)   <          <   (IM)
+==========================
+
+This is an ASCII of how Ice Man fires the Ice Slasher. The farther to the left
+the attack is, the quicker that wave will get to you. First of all, shoot at
+Ice Man rapidly while trying to avoid them. Jump over the first wave, and fall
+between the first and second. The fourth and fifth ones will then come. After
+they do come, jump over the fifth and hug the right button, avoiding the sixth.
+While doing this, fire at Ice Man with the arm cannon.
+
+If you have the Thunder Beam, Ice Man won't touch you. You can even cheat by
+pressing select a lot if you want, so Ice Man will die before he barely even
+shoots. Ice Man's pattern will always repeat itself, so there's no need to worry
+about that. You can do it without getting hit, but you'll have to concentrate on
+avoiding the damn ice waves while firing. Once Ice Man's defeated, grab one of
+the best weapons: the Ice Slasher. With that, we can now leave and head on to
+Fire Man's stage.
+
+------------------------------------------------------------------------------
+                 BOSS FIGHT: FIRE MAN || DIFFICULTY: MEDIUM
+------------------------------------------------------------------------------
+
+The battle with Fire Man requires that you're always there attacking, showing no
+mercy. Fire Man's Fire Storm is extremely difficult to dodge, although it's not
+anywhere near as powerful as Elec Man's Thunder Beam or Ice Man's Ice Slasher.
+Fire Man can shoot walls of fire very quickly at you, and if you do manage to
+avoid one of them, the one after that is likely to hit you before you land and
+make another jump.
+
+Fire Man will never quit FIRING (haha, am I hilarious or what?) at you, except
+for an occasional brief break that last for about one second after shooting a
+bunch of fire walls. This means that you too have to be aggressive. Equip that
+Ice Slasher and get as close to him as you can. First of all, get off a few hits
+at him with your cold, cold Ice Slasher. Fire Man will definitely hit you, but
+just let him! You'll be invincible for a second or two, allowing you to get off
+about two more hits at Fire Man.
+
+Repeat the pattern after that, but it's important that if you have the arm
+cannon, you keep shooting at him at all possible times. In a straight fight, it
+all comes down to who is firing more often. But if you are, you will just barely
+win the battle. With the Ice Slasher, it's much easier. After a simple battle,
+collect the orb he drops, and now we can go on to Dr. Wily! Unfortunately, we
+have three stages to go to before him...
+
+------------------------------------------------------------------------------
+              BOSS FIGHT: YELLOW DEVIL || DIFFICULTY: VERY HARD
+------------------------------------------------------------------------------
+
+Rarely do I give a boss the gleaming title of "Very Hard". If one boss in all of
+the original Mega Man deserves to be called very hard, it's the Yellow Devil.
+Simply put, you don't get tougher than this in Mega Man. If you beat this, you
+can easily get past anything else that Mega Man 1, or the whole series throws at
+you. Anyway, enough of me going on. More about the boss!
+
+The Yellow Devil attacks like this: first of all, several blocks will appear
+from the left, and move over to the right to form a robot made of rock. There
+are five rows of rocks: two lower on the floor, and three above. You'll have to
+jump over the lower ones and not jump over the higher ones. Sound easy? Well, if
+we were doing this twice or so, yes it would. However, no less than 19 blocks
+will quickly fly to the right, making the Yellow Devil, and we have to dodge all
+of them no less than seven times. Yeah, you heard me right.
+
+Get hit a total of seven times, and you're a dead guy. Fine enough as it is, but
+we're forgetting what happens when the Yellow Devil is formed. Once it is, you
+will have to do everything right, including hitting it at the exact time with
+the Thunder Beam (if you don't get it on the first try then enjoy dodging blocks
+again) and avoiding the Yellow Devil's attack, which is worth twice as much
+damage as a block attack.
+
+First of all, let's take care of the Yellow Devil pulling itself together. Head
+to the middle of the stage, and when the first block comes along, you'll have to
+jump over it. Fine enough. Take a small jump to the right afterwards, since if
+you jump too high you'll get hit by the next block. After that one builds a part
+of the Yellow Devil, jump over the next block. One that's really high in the air
+will fly to the right, so ignore that. Same with the next one. The one after
+that, jump.
+
+The Yellow Devil's next attack will pass over you, and the one after that will
+REALLY pass over you! It's a conspiracy! Unfortunately, the next part can be
+really tough. Two blocks, one in the bottom row and one in the one after it will
+come at you. This can be really tricky and might take several tries, but do it
+by first making the highest jump you can over the bottom block, and then hit the
+left button to avoid the next attack.
+
+Make a small right after that, since if you're too high up the next attack will
+hit. The next two blocks are far over you, so no need to trouble with that.
+After those, jump over the next block, then just avoid jumping into the next
+three attacks. One attack will sweep the ground as it goes, and then the last
+block will make up one of the Yellow Devil's arms. Dodging these attacks is a
+lot harder than I make it sound, and it may take up to thirty tries to get used
+to doing it and being able to beat the Yellow Devil.
+
+The attacks will also come in _really_ fast. Make sure you use the guide, think
+fast, and act fast. When the Yellow Devil's full body is formed, a small eyeball
+will appear, so that's where you shoot. Yep, shoot a robot right in the eye!
+What a proud person you should be! *ahem* The weapon to use is the Thunder Beam.
+Very weak, but the strongest and best weapon that we can use. You may wish to
+fire the beam before the eye appears, since the Thunder Beam is so damn slow.
+
+Once the devil has been formed for a second or two (giving you time to only hit
+it with the Thunder Beam once... grrr...) it'll split up again, and then reform
+at the other side of the room. It will reform in the exact same way that it
+formed in the first place, so look to the strategy above but just switch "left"
+with "right" and "right" to "left" in the strategy. After this, it's all about
+talent and skill. There's no more I can give you and tell you unless you wish to
+cheat.
+
+If you do cheat, I can't say I don't blame you, but if you do indeed choose
+to... this requires timing, but not so much as some other stuff here can. When
+the Thunder Beam hits the eyeball, press select. Press it again. The Yellow
+Devil gets hit again! Press it again. And again. And again. Doing this, you can
+destroy the Yellow Devil and allow it to form once. Yeah, it's cheap, but if you
+use it, you're really not much of a cheater.
+
+------------------------------------------------------------------------------
+                 BOSS FIGHT: MEGA MAN || DIFFICULTY: MEDIUM
+------------------------------------------------------------------------------
+
+Some people believe that this is the hardest fight in the whole game. I think
+it's one OF the hardest, but it's not nearly as hard as the Yellow Devil. So
+anyway, this clone of you is a tough nut to crack, and I'll say right now that
+he is an exact copy of you. If you change a weapon, he'll change to that weapon
+himself. So you and he will always use the same weapon, and whatever is strong
+for you will be strong for him.
+
+But anyway, the clone is far superior to you. Speed is equal, power is far
+superior, and he's even more intelligent, as him running into you will hurt YOU
+and not him. Yargh. But you have me, so it's two versus one. TAKE DAT! The first
+thing you have to do is decide what weapon to use. If you don't want to cheat,
+then pull out the Thunder Beam. If you do want to cheat to get past this fight,
+then just use your arm cannon. So in effect, you're fighting Elec Man for the
+third time. Or yourself. Whatever.
+
+Without cheating, stay at one side of the room (away from him), and use the
+Thunder Beam wisely. Hit him with everything you have, as his health is a bit
+limited to something like the Thunder Beam. Make sure you dodge him, and run
+away very quickly when he reaches you. Cheating or not, pausing is useful,
+because doing this at such a fast paced rate can be considered suicidal. And if
+you ARE cheating, then the very quick arm cannon will make short work of Mega
+Man.
+
+------------------------------------------------------------------------------
+                 BOSS FIGHT: BUBBLE BOT || DIFFICULTY: MEDIUM
+------------------------------------------------------------------------------
+
+OMG the early Bubble Man! Well, maybe not, but this boss will fight in a large
+group of bubbles. First of all, there are four Super Arm blocks in the middle of
+the room, a door at the upper-left of the room, a door on the upper-right, and a
+door on the ceiling. The Bubble Bot isn't exactly one boss, but rather seven. A
+bubble will randomly come out of one of the doors, and then when it's destroyed,
+1/7 of the boss health will disappear. The bubbles themselves are dangerous and
+as they go along, get faster and faster.
+
+A bubble will die in one hit from the Super Arm blocks. That means to use them,
+right? WRONG. The first three bubbles, obviously, are the easiest ones. Why
+waste the best for the worst when you'll be slaughtered by the last three
+bubbles. The Thunder Beam works well against the bubbles, but do not use it,
+since it can blast the Super Arm blocks away. The arm cannon should definitely
+suffice. Also, pray that the bubbles will come in from the middle.
+
+Stay at the right side of the top Super Arm block. If a bubble comes from the
+left door, shoot it as it comes out, then move right and dodge its fire. Shoot
+when it gets on the left and right sides, and it's done. From the middle, it's
+even better. Wait for it to land, and then continue shooting at it as it moves
+to the left. Then when it goes to the right, head to the left side of the top
+Super Arm block and shoot it from the right side. It should be dead before it
+gets to the bottom.
+
+From the right, however, it gets worse. It'll head from the right to left, so it
+WILL hit you. Still, take the opportunity to shoot, then go to the left side and
+block and shoot some more, then when it goes to the right, shoot it while it's
+over there. Then it should be gone. After three of them are gone, take the top
+Super Arm block and when one of them gets near, throw it. It's gone! Repeat with
+the bottom ones while making CAREFUL throws, and then we have this battle won!
+
+------------------------------------------------------------------------------
+                BOSS FIGHT: DR. WILY || DIFFICULTY: MEDIUM
+------------------------------------------------------------------------------
+
+Dr. Wily is surprisingly simple, for the last boss in the game. Of course, he
+wouldn't fight you one on one like a real man would, but still, his machine is
+enough to cope with as it is. It's strategy is quite simple; all it'll do is
+hurl bullets around the floor. Of course, it'll hurt if it touches you, because
+Dr. Light developed Mega Man so he sexually flinches when he's touched and is
+thus overcome with fear (hey, I would be too), but the same thing isn't true
+with Dr. Wily. I guess he's smart.
+
+Whoops, I'm babbling again. Needless to say, those are the only two ways that
+Dr. Wily can damage you, and that's not exactly a huge arsenal of attacks. The
+weak spot of his first form is the orb right in front of you, and you don't even
+need to cheat to be able to take that out. Whoop out the Fire Storm, and use it
+on that orb, over and over. If you cheat then it'll burn the thing down quicker,
+but even if you don't, you SHOULD be able to get through to the cockpit, where
+Dr. Wily himself is. Second form time.
+
+Dr. Wily still has the same arch bullet type attack, and won't even change his
+arsenal for the fight. The only difference between the two forms is that this
+one takes longer to beat. Oh, and it shows Dr. Wily himself too, if that counts
+for anything. He's also no longer weak against the Fire Storm, so the easiest
+weapon to use here would be the Rolling Cutters. Hurl them at him with all fury,
+jumping to avoid the bullets. If you do this correctly, jumping and shooting,
+and connecting it as well as you can, he'll get hit twice (or four times if you
+cheat, which isn't recommended). Dr. Wily should fall quickly.
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                              =-= 9. CREDITS =-=
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+You, obviously, deserve something for actually taking the time to find the URL
+to this guide, actually say "eh, let's see how bad this is", "He's back again?
+Let's read this!", or "Hopefully this can help me in my quest through the game",
+because you deserve something for that. But with that, here are some shout-outs
+to whatever and whomever helped me.
+
+- Jeff "CJayC" Veasey: For running the whole site of GameFAQs, the main site
+that I work for. It's an awesome site, and I must commend CJayC for running
+this great site for 6 whole years and posting this guide.
+
+- Stephen Ng: For being the FAQ editor for IGN, which is the other site that I
+write for. I am honored to write for IGN, since it is a great site. I was also
+very glad to do an exclusive for IGN.
+
+- Psycho Penguin: He helped quite a bit with all my Mega Man guides, in quite a
+few different ways. Also, check out our co-authored Mega Man 3 guide... that
+just seriously kicks divine amounts of ass.
+
+- All the guys who first got me started writing from GameFAQs and all of my
+best friends like SinirothX, Psycho Penguin, Meowthnum1, CVXFREAK, Karpah,
+ZoopSoul, Crazyreyn, Gobicamel, asa2377 (OH EM GEE YOU TROLL), Warhawk, Cyril,
+supernova54321, Minesweeper, AlaskaFox, me frog, RHarrison, masterzero99, Tom
+Hayes, wayalla, djg40, MTincher, NickBush24, BurningFox, AquaBlast, and
+definitely more that I'm forgetting: you are some of the best friends that
+anyone can have, and I may have quit FAQing/left FCB forever without all of
+you. Thank you for everything and for motivating me to get my ass in gear.
